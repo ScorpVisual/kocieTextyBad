@@ -1,0 +1,2 @@
+# kocieTexty
+kocieTexty soloSite
